@@ -1,4 +1,4 @@
-<img align="center" src="YOUR_NEW_DEVOPS_GIF_URL" alt="Dynamic DevOps Animation" />
+![MasterHead](https://cdn.dribbble.com/userupload/7725814/file/original-ad34e5a3d587a8a90b6586de67710225.gif)
 
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">🚀 DevOps Engineer | Cloud Enthusiast | Automation Addict</h3>
