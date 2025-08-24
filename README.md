@@ -6,11 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpathak-devops&label=Profile%20views&color=0e75b6&style=flat" alt="amanpathak-devops" /> </p>
 
-- 🔭 I’m currently working on [Terraform-for-AWS](https://github.com/AmanPathak-DevOps/Terraform-for-AWS)
+- 🔭 I’m currently working on [DevSecOps Project]
 
 - 🌱 I’m currently learning **Kubernetes**
-
-- 📝 I regularly write articles on [https://amanpathakdevops.medium.com](https://amanpathakdevops.medium.com)
 
 - 💬 Ask me about **DevOps, Cloud Computing (AWS, Microsoft Azure), Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting**
 
