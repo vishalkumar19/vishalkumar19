@@ -58,56 +58,6 @@ Goal: Build Highly Scalable Systems
 
 ---
 
-# ⚙️ DevOps Lifecycle
-
-<div align="center">
-
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*7AOhgdw5FhB8D2rL6u9dOA.gif" width="700">
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1"/>
-
-</div>
-
----
-
 # 🔥 Featured Projects
 
 <div align="center">
@@ -205,15 +155,6 @@ Goal: Build Highly Scalable Systems
 </div>
 
 ---
-
-# 🎵 Spotify Playing
-
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem"/>
-
-</div>
-
 ---
 
 # 💻 Terminal Vibes
