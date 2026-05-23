@@ -2,7 +2,7 @@
 
 # ⚡ VISHAL KUMAR ⚡
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=🚀+DevOps+Engineer+/SRE;☁️+Cloud+%7C+Kubernetes+%7C+Terraform;⚙️+Automation+Enthusiast;🔥+Building+Scalable+Infrastructure" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=🚀+DevOps+/SRE+Engineer+;☁️+Cloud+%7C+Kubernetes+%7C+Terraform;⚙️+Automation+Enthusiast;🔥+Building+Scalable+Infrastructure" />
 
 <br>
 
